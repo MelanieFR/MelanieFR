@@ -5,7 +5,7 @@
       engine components in the Europe, Middle East and Africa (EMEA) zone. 
 - 🌱 I’m currently learning python programming and R languages. I mostly use numpy and pandas libraries as well as matplotlib and sklearn. But I am constantly looking to improve myself and broaden my horizons  
 - 💞️ I’m looking to collaborate on projects related to data analysis
-- 📫 How to reach me ...
+- 📫 How to reach me: please don't hesitate to reah out to me on Github! Thank you 
 
 <!---
 MelanieFR/MelanieFR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
